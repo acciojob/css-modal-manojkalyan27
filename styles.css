@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+h2{
+	background-color: green;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+}
+p{
+	margin: 10px;
+	font-weight: 600;
+}
+
+span{
+	text-align: right;
+}
